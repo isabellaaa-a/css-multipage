@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(70, 67, 67);
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blue;
+   font-family Impact, background color
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(255, 0, 221);
+}
+
+a {
+    color: blanchedalmond;
+}
+
+.more-info {
+    background-color: red;
+    color: rgb(188, 171, 203);
+}
+
+#home {
+    background-color: aqua;
+    color: rgb(18, 16, 14);
+}
